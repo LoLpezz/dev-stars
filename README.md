@@ -1,5 +1,5 @@
 <h2>Projeto Fundamentos Web</h2>
-<p>Projeto realizado durante o curso fornecido pela DevStart</p>
+<p>Projeto realizado durante o curso fornecido pela DevStars</p>
 
 <ul>
   Foi utilizado nesse projeto:
